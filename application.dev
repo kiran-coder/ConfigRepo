@@ -1,0 +1,8 @@
+spring.application.name=Currency_Service
+
+server.port=4563
+spring.datasource.url=jdbc:h2:mem:saik
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=saikri
+spring.datasource.password=saikri
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
